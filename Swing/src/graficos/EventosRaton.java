@@ -49,7 +49,6 @@ class EventosDeRaton implements MouseListener{
 	public void mouseEntered(MouseEvent e) {
 		
 		System.out.println("Acabas de entrar");
-		
 	}
 
 	@Override
